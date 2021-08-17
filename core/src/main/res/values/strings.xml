@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie Log</string>
+    <string name="error">Oops! Sorry…</string>
+    <string name="understood">Understood!</string>
+    <string name="network_error">Network error! Check your connection</string>
+    <string name="server_error">Server unavailable, sorry!</string>
+    <string name="general_error">Unexpected error occurred.</string>
+    <string name="feature_error">Unexpected error occurred. Try again later.</string>
+    <string name="movies_loaded">Movies loaded!</string>
+
+    <plurals name="votes">
+        <item quantity="one">%d vote</item>
+        <item quantity="other">%d votes</item>
+    </plurals>
+
+</resources>
