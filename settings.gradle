@@ -2,3 +2,5 @@ rootProject.name = "AndroidApp"
 include ':app'
 include ':core'
 include ':data'
+include ':features:home'
+include ':features:movie'

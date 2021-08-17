@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/learnspace/android-app/core/src/main/res/drawable/core_ic_sad.xml" value="0.20208333333333334" />
         <entry key="..\:/learnspace/android-app/core/src/main/res/layout/dialog_error.xml" value="0.25" />
+        <entry key="..\:/learnspace/android-app/features/movie/src/main/res/drawable/movie_ic_heart.xml" value="0.22135416666666666" />
+        <entry key="..\:/learnspace/android-app/features/movie/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/learnspace/android-app/features/movie/src/main/res/layout/activity_movie.xml" value="0.1" />
+        <entry key="..\:/learnspace/android-app/features/movie/src/main/res/layout/item_genre.xml" value="0.1" />
       </map>
     </option>
   </component>
